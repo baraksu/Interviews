@@ -1,0 +1,6 @@
+D:\GitHub\Interviews\JobTester\obj\Debug\exercise.csprojResolveAssemblyReference.cache
+D:\GitHub\Interviews\JobTester\obj\Debug\JobTester.exe
+D:\GitHub\Interviews\JobTester\bin\Debug\JobTester.exe.config
+D:\GitHub\Interviews\JobTester\bin\Debug\JobTester.exe
+D:\GitHub\Interviews\JobTester\bin\Debug\JobTester.pdb
+D:\GitHub\Interviews\JobTester\obj\Debug\JobTester.pdb

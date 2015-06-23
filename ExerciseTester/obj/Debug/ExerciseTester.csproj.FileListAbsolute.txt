@@ -1,0 +1,7 @@
+D:\GitHub\Interviews\ExerciseTester\obj\Debug\ExerciseTester.csprojResolveAssemblyReference.cache
+D:\GitHub\Interviews\ExerciseTester\bin\Debug\ExerciseTester.dll
+D:\GitHub\Interviews\ExerciseTester\bin\Debug\ExerciseTester.pdb
+D:\GitHub\Interviews\ExerciseTester\bin\Debug\JobTester.exe
+D:\GitHub\Interviews\ExerciseTester\bin\Debug\JobTester.pdb
+D:\GitHub\Interviews\ExerciseTester\obj\Debug\ExerciseTester.dll
+D:\GitHub\Interviews\ExerciseTester\obj\Debug\ExerciseTester.pdb

@@ -1,0 +1,9 @@
+c:\users\berkeley\documents\visual studio 2013\Projects\JobTester\JobTester\bin\Debug\JobTester.exe.config
+c:\users\berkeley\documents\visual studio 2013\Projects\JobTester\JobTester\obj\Debug\JobTester.csprojResolveAssemblyReference.cache
+c:\users\berkeley\documents\visual studio 2013\Projects\JobTester\JobTester\bin\Debug\JobTester.exe
+c:\users\berkeley\documents\visual studio 2013\Projects\JobTester\JobTester\bin\Debug\JobTester.pdb
+c:\users\berkeley\documents\visual studio 2013\Projects\JobTester\JobTester\obj\Debug\JobTester.exe
+c:\users\berkeley\documents\visual studio 2013\Projects\JobTester\JobTester\obj\Debug\JobTester.pdb
+D:\GitHub\Interviews\JobTester\bin\Debug\JobTester.exe.config
+D:\GitHub\Interviews\JobTester\obj\Debug\JobTester.exe
+D:\GitHub\Interviews\JobTester\obj\Debug\JobTester.pdb
