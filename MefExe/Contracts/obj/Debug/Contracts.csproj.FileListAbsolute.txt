@@ -1,0 +1,5 @@
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Contracts\bin\Debug\Contracts.dll
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Contracts\bin\Debug\Contracts.pdb
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Contracts\obj\Debug\Contracts.dll
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Contracts\obj\Debug\Contracts.pdb

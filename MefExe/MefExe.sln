@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefExe", "MefExe\MefExe.csproj", "{3AD74216-BA87-4904-804F-D549AC6A65DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{17EE9031-C56A-40AB-A247-9F4CDFC26F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commands", "Commands\Commands.csproj", "{BF844C89-82E4-48D3-9A4F-0C97E80EA6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD74216-BA87-4904-804F-D549AC6A65DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD74216-BA87-4904-804F-D549AC6A65DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD74216-BA87-4904-804F-D549AC6A65DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD74216-BA87-4904-804F-D549AC6A65DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EE9031-C56A-40AB-A247-9F4CDFC26F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EE9031-C56A-40AB-A247-9F4CDFC26F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EE9031-C56A-40AB-A247-9F4CDFC26F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EE9031-C56A-40AB-A247-9F4CDFC26F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF844C89-82E4-48D3-9A4F-0C97E80EA6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF844C89-82E4-48D3-9A4F-0C97E80EA6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF844C89-82E4-48D3-9A4F-0C97E80EA6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF844C89-82E4-48D3-9A4F-0C97E80EA6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\bin\Debug\Commands.dll
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\bin\Debug\Commands.pdb
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\bin\Debug\Contracts.dll
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\bin\Debug\Contracts.pdb
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\obj\Debug\Commands.dll
+c:\Users\berkeley\documents\visual studio 2015\Projects\MefExe\Commands\obj\Debug\Commands.pdb
+D:\GitHub\Interviews\MefExe\Commands\bin\Debug\Commands.dll
+D:\GitHub\Interviews\MefExe\Commands\bin\Debug\Commands.pdb
+D:\GitHub\Interviews\MefExe\Commands\bin\Debug\Contracts.dll
+D:\GitHub\Interviews\MefExe\Commands\bin\Debug\Contracts.pdb
+D:\GitHub\Interviews\MefExe\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+D:\GitHub\Interviews\MefExe\Commands\obj\Debug\Commands.dll
+D:\GitHub\Interviews\MefExe\Commands\obj\Debug\Commands.pdb

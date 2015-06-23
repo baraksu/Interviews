@@ -1,0 +1,20 @@
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\MefExe.exe.config
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\MefExe.exe
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\MefExe.pdb
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\Commands.dll
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\Contracts.dll
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\Commands.pdb
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\bin\Debug\Contracts.pdb
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\obj\Debug\MefExe.csprojResolveAssemblyReference.cache
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\obj\Debug\MefExe.exe
+c:\users\berkeley\documents\visual studio 2015\Projects\MefExe\MefExe\obj\Debug\MefExe.pdb
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\MefExe.exe.config
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\MefExe.exe
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\MefExe.pdb
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\Commands.dll
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\Contracts.dll
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\Commands.pdb
+D:\GitHub\Interviews\MefExe\MefExe\bin\Debug\Contracts.pdb
+D:\GitHub\Interviews\MefExe\MefExe\obj\Debug\MefExe.csprojResolveAssemblyReference.cache
+D:\GitHub\Interviews\MefExe\MefExe\obj\Debug\MefExe.exe
+D:\GitHub\Interviews\MefExe\MefExe\obj\Debug\MefExe.pdb
